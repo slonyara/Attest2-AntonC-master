@@ -1,0 +1,8 @@
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\bin\Debug\ConsoleLibrary.dll
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\bin\Debug\ConsoleLibrary.pdb
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\bin\Debug\Library.dll
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\bin\Debug\Library.pdb
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\obj\Debug\ConsoleLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\obj\Debug\ConsoleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\obj\Debug\ConsoleLibrary.dll
+C:\Users\Andre\source\repos\AntonC\Attest2\ConsoleLibrary\obj\Debug\ConsoleLibrary.pdb

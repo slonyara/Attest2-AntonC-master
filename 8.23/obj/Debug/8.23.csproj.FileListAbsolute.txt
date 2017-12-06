@@ -1,0 +1,12 @@
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\bin\Debug\8.23.exe.config
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\bin\Debug\8.23.exe
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\bin\Debug\8.23.pdb
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\bin\Debug\Library.dll
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\bin\Debug\Library.pdb
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\obj\Debug\_8._23.Form1.resources
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\obj\Debug\_8._23.Properties.Resources.resources
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\obj\Debug\8.23.csproj.GenerateResource.Cache
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\obj\Debug\8.23.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\obj\Debug\8.23.exe
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\obj\Debug\8.23.pdb
+C:\Users\Andre\source\repos\AntonC\Attest2\8.23\obj\Debug\8.23.csprojResolveAssemblyReference.cache
