@@ -9,7 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*54.	Дана действительная квадратная матрица N×N. Требуется переставить строки матрицы по возрастанию первых элементов строк. 
+ **/
 namespace _9._54
 {
     public partial class Form1 : Form

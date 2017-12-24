@@ -4,3 +4,9 @@ C:\Users\Andre\source\repos\AntonC\Attest2\Library\obj\Debug\Library.csproj.Core
 C:\Users\Andre\source\repos\AntonC\Attest2\Library\obj\Debug\Library.dll
 C:\Users\Andre\source\repos\AntonC\Attest2\Library\obj\Debug\Library.pdb
 C:\Users\Andre\source\repos\AntonC\Attest2\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Slon\Desktop\Attest2-AntonC-master\Library\bin\Debug\Library.dll
+C:\Users\Slon\Desktop\Attest2-AntonC-master\Library\bin\Debug\Library.pdb
+C:\Users\Slon\Desktop\Attest2-AntonC-master\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Slon\Desktop\Attest2-AntonC-master\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Slon\Desktop\Attest2-AntonC-master\Library\obj\Debug\Library.dll
+C:\Users\Slon\Desktop\Attest2-AntonC-master\Library\obj\Debug\Library.pdb

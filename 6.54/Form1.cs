@@ -8,7 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Library;
-
+/*
+ * 
+в папке с проектом условие 
+ * */
 namespace _6._54
 {
     public partial class Form1 : Form

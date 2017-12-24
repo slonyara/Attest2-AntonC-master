@@ -13,6 +13,9 @@ namespace _6._23
 {
     public partial class Form1 : Form
     {
+        /*
+         * В заданной строке установить пробелы вместо символов, номера позиций которых при делении на 4 дают в остатке 3
+         * */
         public Form1()
         {
             InitializeComponent();

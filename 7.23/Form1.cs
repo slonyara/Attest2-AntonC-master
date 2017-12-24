@@ -8,7 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Library;
-
+/*23.	Дано число k и целочисленный массив размера N. Заменить каждую серию, длина которой меньше1|равна2|больше3 k, на один нулевой элемент
+ **/
 namespace _7._23
 {
     public partial class Form1 : Form
